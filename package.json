@@ -1,0 +1,27 @@
+{
+  "name": "deebastudios.com",
+  "version": "1.0.0",
+  "description": "A website for debass rehearsal studios",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedivinez/deebasstudios.git"
+  },
+  "keywords": [
+    "deebass",
+    "rehersal"
+  ],
+  "author": "Divine Zvenyika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedivinez/deebasstudios/issues"
+  },
+  "homepage": "https://deebastudios.com",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
